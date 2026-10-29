@@ -27,3 +27,5 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+//what are the data type 
