@@ -16,4 +16,4 @@ console.log(accountId);
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
 
-//
+//we have changed the value of accountEmail,accountPassword,accountCity but we cannot change the value of accountId because it is a constant variable.
